@@ -30,6 +30,10 @@ Lastly, you will access your website in a browser using the unique S3 endpoint.
 
 ![CloudFront - Config](https://github.com/aysunakarsu/udacity-cdnd-project1/blob/master/img/cloudfront-config.png)
 
-## Site Screen Shot / [CloudFront Endpoint](http://d2ufxoeywdv4wl.cloudfront.net/index.html) 
+# Web Browser Access
+
+## Criteria 6 --  Is the website publicly accessible?
+
+![CloudFront Endpoint](http://d2ufxoeywdv4wl.cloudfront.net/index.html) 
 
 ![Site Screen Shot](https://github.com/aysunakarsu/udacity-cdnd-project1/blob/master/img/site.png)
