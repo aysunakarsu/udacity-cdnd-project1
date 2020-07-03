@@ -28,12 +28,10 @@ Lastly, you will access your website in a browser using the unique S3 endpoint.
 
 ## Criteria 5 -- The website should be distributed via Cloudfront. 
 
-[CloudFront - Config](https://github.com/aysunakarsu/udacity-cdnd-project1/blob/master/img/cloudfront-config.png)
+![CloudFront - Config](https://github.com/aysunakarsu/udacity-cdnd-project1/blob/master/img/cloudfront-config.png)
 
 # Web Browser Access
 
-## Criteria 6 --  Is the website publicly accessible?
+## Criteria 6 --  Is the website publicly accessible? / 
 
-![CloudFront Endpoint](http://d2ufxoeywdv4wl.cloudfront.net/index.html) 
-
-![Site Screen Shot](https://github.com/aysunakarsu/udacity-cdnd-project1/blob/master/img/site.png)
+![Site Screenshot](https://github.com/aysunakarsu/udacity-cdnd-project1/blob/master/img/site.png)
